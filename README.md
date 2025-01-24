@@ -1,1 +1,4 @@
-
+- [HackTricks (for anything and everything)](https://book.hacktricks.wiki/en/index.html)
+- [Shell Generator](https://www.revshells.com/)
+- [SwissKey Repo](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master)
+- [Addie Lamarr Notes](https://publish.obsidian.md/addielamarr/00+Home+MOC)

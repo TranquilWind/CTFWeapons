@@ -5,3 +5,4 @@
 - [Pentest Monkey](https://pentestmonkey.net/)
 - [Pentest Monkey Github](https://github.com/pentestmonkey)
 - [RSA CTF Tool](https://github.com/Ganapati/RsaCtfTool)
+- [GTFObin](https://gtfobins.github.io/)

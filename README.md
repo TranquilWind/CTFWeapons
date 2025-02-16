@@ -2,3 +2,5 @@
 - [Shell Generator](https://www.revshells.com/)
 - [SwissKey Repo](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master)
 - [Addie Lamarr Notes](https://publish.obsidian.md/addielamarr/00+Home+MOC)
+- [Pentest Monkey](https://pentestmonkey.net/)
+- [Pentest Monkey Github](https://github.com/pentestmonkey)

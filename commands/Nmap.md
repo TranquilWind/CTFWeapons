@@ -1,6 +1,6 @@
 # NMAP
 
-`nmap =h`
+`nmap -h`
 
 `nmap -A -vv -T4 <IP>` or `nmap -O -sV -vv -T4 <IP>`
 

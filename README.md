@@ -6,3 +6,5 @@
 - [Pentest Monkey Github](https://github.com/pentestmonkey)
 - [RSA CTF Tool](https://github.com/Ganapati/RsaCtfTool)
 - [GTFObin](https://gtfobins.github.io/)
+- [Rapid7 Metasploit docs](https://docs.rapid7.com/metasploit/)
+- [OffSec](https://www.offsec.com/)

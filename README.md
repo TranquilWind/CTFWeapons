@@ -8,3 +8,4 @@
 - [GTFObin](https://gtfobins.github.io/)
 - [Rapid7 Metasploit docs](https://docs.rapid7.com/metasploit/)
 - [OffSec](https://www.offsec.com/)
+- [S1ren's Resources](https://sirensecurity.io/blog/home/)
